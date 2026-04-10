@@ -1,0 +1,3 @@
+[submodule "template_light_composer"]
+	path = template_light_composer
+	url = https://github.com/WOOWTECH/template_light_composer.git
